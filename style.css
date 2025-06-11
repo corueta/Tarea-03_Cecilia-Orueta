@@ -1,0 +1,59 @@
+/* Fondo general y fuente */
+body {
+    font-family: Calibri, sans-serif;
+    background-color: #fdf6e3; /* crema/hueso */
+    color: #333;
+    margin: 0;
+    padding: 0;
+  }
+  
+  /* Encabezado principal */
+  header {
+    background-color: #f8dce0; /* rosado claro */
+    color: #333;
+    text-align: center;
+    padding: 20px;
+  }
+  
+  /* Imagen de perfil en el header */
+  header img {
+    border-radius: 50%;
+    width: 120px;
+    margin-top: 10px;
+  }
+  
+  /* Secciones principales */
+  section {
+    background-color: white;
+    margin: 20px auto;
+    padding: 20px;
+    max-width: 800px;
+    border-radius: 10px;
+    box-shadow: 0 0 8px rgba(0, 0, 0, 0.05);
+  }
+  
+  /* Títulos y subtítulos */
+  h1, h2, h3 {
+    font-weight: bold;
+    color: #444;
+  }
+  
+  /* Enlaces */
+  a {
+    color: #d96f91; /* rosado claro fuerte para destacar */
+    text-decoration: none;
+  }
+  
+  a:hover {
+    text-decoration: underline;
+  }
+  
+  /* Footer */
+  footer {
+    text-align: center;
+    padding: 15px;
+    background-color: #f8dce0; /* rosado claro */
+    color: #333;
+    margin-top: 30px;
+  }
+  
